@@ -1,5 +1,13 @@
+# Description
+Team Checkpoint  
+
+Title : Entry Asteroids 
+
+Theme : "It's not supposed to do that"
+GameJam2023 by IEEECSBUETSBC
+
 # Download
-In the workshop, we have shown you how to start using p5.js
+Start using p5.js
 by installing the ```p5.vscode``` extension in VS Code.
 
 
@@ -32,6 +40,6 @@ We have provided
 
 There are README files in all of the folders to help you get started.
 
-# Previous Game Jam Submissions
-The Game Jam organized by IEEE CS BUET Student Branch had many amazing submissions under the theme "It's not supposed to do that". You can find the demo videos of those games [here](https://youtu.be/dac8ezI2uDI). You can watch them and get inspired to make your own game.
+# GameJam Submission
+The Game Jam organized by IEEE CS BUET Student Branch had many amazing submissions under the theme "It's not supposed to do that". You can find the demo videos of those games [here](https://youtu.be/xGL0u8X75FY)  . You can watch them and get inspired to make your own game.
 
